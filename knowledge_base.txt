@@ -1,0 +1,187 @@
+INFORMASI PLATFORM atau Website
+Gamelab Store adalah marketplace produk digital yang menghubungkan kreator dengan pengguna yang membutuhkan aset digital, kursus, dan alat produktivitas. Platform ini dirancang untuk para profesional, pelajar, pemula, dan pelaku usaha di Indonesia yang mencari solusi digital berkualitas tinggi untuk mempercepat proses kerja dan pembelajaran.
+
+Fokus utama platform adalah menyediakan ekosistem jual beli produk tak berwujud yang instan, aman, dan mudah diakses. Melalui sistem otomasi yang terintegrasi, pengguna dapat langsung mengunduh atau mengakses produk digital mereka detik itu juga setelah proses pembayaran selesai, tanpa perlu menunggu pengiriman fisik.
+
+VISI
+Menjadi pusat inovasi dan kolaborasi digital terdepan di Indonesia yang memberdayakan setiap individu untuk berkembang dan berkreasi melalui akses tanpa batas terhadap produk digital berkualitas tinggi.
+
+MISI
+Menyediakan kurasi produk digital berkualitas yang dapat diandalkan untuk berbagai kebutuhan profesional dan personal.
+
+Memberikan dukungan penuh bagi para kreator lokal untuk memasarkan karya digital mereka ke audiens yang lebih luas.
+
+Menghadirkan antarmuka platform yang intuitif guna memastikan kemudahan akses bagi seluruh tingkat pengguna.
+
+Memastikan setiap transaksi berjalan dengan aman, transparan, dan nyaman melalui sistem pembayaran otomatis yang terstandardisasi.
+
+FITUR PAYMENT GATEWAY
+Platform menggunakan sistem payment gateway terintegrasi untuk memproses seluruh pembayaran digital secara otomatis, aman, dan real-time. Sistem ini bertindak sebagai jembatan antara pengguna dan jaringan perbankan atau penyedia dompet digital untuk memfasilitasi transaksi tanpa campur tangan manual.
+
+Payment gateway berfungsi untuk menerima instruksi pembayaran, mengamankan data transaksi melalui enkripsi standar industri, dan memverifikasi ketersediaan dana secara instan. Proses verifikasi pembayaran berjalan otomatis dalam hitungan detik setelah pengguna mentransfer dana atau melakukan konfirmasi pada aplikasi pembayaran mereka.
+
+Keamanan transaksi dijaga melalui protokol enkripsi dan deteksi anomali, sehingga informasi sensitif terlindungi secara maksimal. Setelah proses selesai, sistem akan menghasilkan status pembayaran secara langsung yang akan memicu akses ke produk digital secara otomatis jika transaksi dinyatakan berhasil.
+
+PRODUK DIGITAL
+Ebook
+Buku elektronik yang berisi panduan, tutorial, atau literatur yang diformat khusus untuk dibaca melalui perangkat digital seperti komputer, tablet, atau ponsel cerdas.
+
+Video Course
+Modul pembelajaran berbasis video interaktif yang disusun secara terstruktur untuk membantu pengguna menguasai keterampilan atau perangkat lunak tertentu.
+
+AI Prompt
+Kumpulan instruksi atau teks perintah yang dirancang khusus untuk mengoptimalkan hasil dari berbagai model kecerdasan buatan dalam menghasilkan teks, gambar, atau analisis.
+
+Template Digital
+Berkas desain atau dokumen pra-desain yang dapat diedit dan disesuaikan oleh pengguna untuk keperluan presentasi, media sosial, atau administrasi bisnis.
+
+Source Code
+Kumpulan kode pemrograman dari sebuah perangkat lunak, aplikasi, atau situs web yang dapat dipelajari, dimodifikasi, atau digunakan kembali oleh pengembang.
+
+Desain Digital
+Aset visual seperti ikon, ilustrasi vektor, elemen antarmuka pengguna, dan grafis resolusi tinggi yang siap digunakan untuk berbagai proyek kreatif.
+
+DETAIL PRODUK
+Ebook
+Panduan digital komprehensif dengan berbagai topik spesifik mulai dari bisnis hingga teknologi. Produk ini disediakan dalam bentuk dokumen PDF atau ePub yang dioptimalkan untuk kenyamanan membaca di berbagai layar. Kisaran harga adalah Rp25.000 hingga Rp150.000. Model akses berupa unduhan langsung untuk disimpan di perangkat pengguna.
+
+Video Course
+Kursus daring berbasis video dengan resolusi tinggi yang dilengkapi dengan materi pendukung tambahan. Sangat cocok untuk pembelajaran mandiri. Kisaran harga adalah Rp99.000 hingga Rp499.000. Model akses berupa akses online melalui dashboard platform tanpa perlu mengunduh file video berukuran besar.
+
+AI Prompt
+Koleksi perintah kecerdasan buatan siap pakai yang disusun oleh ahli untuk memaksimalkan efisiensi kerja. Kisaran harga adalah Rp15.000 hingga Rp75.000. Model akses berupa unduhan dokumen teks atau akses online langsung melalui platform.
+
+Template Digital
+Kumpulan berkas siap edit untuk presentasi, laporan, atau kebutuhan konten media sosial. Kisaran harga adalah Rp35.000 hingga Rp250.000. Model akses berupa unduhan langsung dalam format arsip terkompresi.
+
+Source Code
+Kode program fungsional yang dapat digunakan sebagai fondasi proyek pengembangan aplikasi atau web, dilengkapi dengan dokumentasi dasar. Kisaran harga adalah Rp150.000 hingga Rp1.500.000. Model akses berupa unduhan langsung setelah transaksi divalidasi.
+
+Desain Digital
+Paket aset visual profesional yang mencakup grafis vektor, set ikon, dan ilustrasi untuk keperluan desain proyek digital maupun cetak. Kisaran harga adalah Rp45.000 hingga Rp350.000. Model akses berupa lisensi unduhan langsung yang dapat digunakan sesuai ketentuan lisensi.
+
+ALUR PENGGUNA & TRANSAKSI
+Registrasi akun dilakukan oleh pengguna dengan mengisi formulir pendaftaran yang memerlukan informasi dasar seperti alamat surel dan kata sandi, dilanjutkan dengan proses verifikasi keamanan dasar.
+
+Login dilakukan pengguna dengan memasukkan kredensial yang telah didaftarkan untuk mengakses area dasbor pribadi dan riwayat aktivitas mereka.
+
+Pemilihan produk dilakukan dengan menelusuri katalog digital. Pengguna dapat membaca deskripsi produk dan menentukan produk yang sesuai sebelum menambahkannya ke keranjang pesanan.
+
+Checkout adalah proses di mana pengguna meninjau kembali produk yang dipilih, mengonfirmasi detail pesanan, dan menyetujui total harga sebelum melanjutkan ke pembayaran.
+
+Pembayaran melalui payment gateway dimulai saat pengguna memilih metode pembayaran yang diinginkan. Sistem akan menampilkan kode bayar atau kode instruksi yang harus diselesaikan.
+
+Verifikasi otomatis terjadi sesaat setelah dana diterima oleh sistem payment gateway. Sistem mencocokkan jumlah tagihan dan pesanan tanpa memerlukan bukti transfer manual dari pengguna.
+
+Produk dapat diakses segera setelah sistem merespons bahwa pembayaran berhasil. Pengguna akan diarahkan ke halaman unduhan atau diberikan tautan akses melalui dasbor mereka.
+
+PEMBAYARAN
+Metode pembayaran digital yang tersedia melalui payment gateway mencakup transfer bank virtual account, pembayaran melalui dompet digital, pemindaian kode QR, serta pembayaran menggunakan kartu kredit atau debit online.
+
+Pending
+Status ketika sistem telah menerbitkan instruksi pembayaran, namun pengguna belum menyelesaikan transfer dana. Transaksi masih menunggu tindakan dari pihak pembeli.
+
+Berhasil
+Status ketika sistem payment gateway telah menerima dana sesuai dengan tagihan. Status ini memicu sistem platform untuk langsung merilis akses produk digital kepada pembeli.
+
+Gagal
+Status ketika transaksi tidak dapat diproses karena alasan seperti penolakan dari pihak bank, gangguan koneksi saat transaksi, atau ketidaksesuaian data pembayaran dari sisi pengguna.
+
+Kedaluwarsa
+Status yang muncul ketika batas waktu pembayaran yang ditentukan oleh sistem telah habis sebelum pengguna menyelesaikan transfer. Transaksi secara otomatis dibatalkan oleh sistem.
+
+AKSES & DISTRIBUSI PRODUK DIGITAL
+Halaman dashboard merupakan pusat kendali utama bagi pengguna. Segera setelah pembayaran terverifikasi otomatis, tautan atau berkas produk akan muncul di area ini.
+
+Riwayat pembelian berfungsi sebagai arsip bagi pengguna untuk melihat daftar lengkap seluruh produk yang pernah dibeli beserta rincian transaksinya.
+
+Akses ulang diperbolehkan bagi produk yang telah dibeli. Pengguna dapat mengunduh ulang berkas melalui dashboard selama produk tersebut masih didukung oleh platform.
+
+Batasan penggunaan diterapkan oleh sistem untuk mendeteksi aktivitas mencurigakan, seperti upaya pengunduhan massal yang tidak wajar atau distribusi akses secara ilegal.
+
+Ketentuan lisensi dasar mengatur bahwa produk digital yang dibeli umumnya diperuntukkan bagi penggunaan personal atau proyek spesifik pembeli. Pengguna tidak diperkenankan menjual kembali produk kepada pihak ketiga tanpa izin resmi.
+
+KEBIJAKAN & KETENTUAN
+Refund hanya dipertimbangkan apabila berkas terbukti rusak secara teknis, file tidak dapat diakses sama sekali setelah transaksi berhasil, atau isi produk sangat menyimpang dari deskripsi yang dicantumkan.
+
+Hak cipta seluruh produk digital sepenuhnya tetap menjadi milik kreator asli. Pembelian produk tidak memindahkan kepemilikan hak cipta kepada pembeli.
+
+Lisensi penggunaan produk digital bersifat non-eksklusif dan membatasi pengguna dari aktivitas distribusi ulang atau eksploitasi komersial di luar batas ketentuan produk.
+
+Tanggung jawab pengguna mencakup kewajiban untuk menjaga kerahasiaan kredensial akun dan memastikan perangkat mereka aman saat mengunduh produk digital.
+
+SOP (STANDARD OPERATING PROCEDURE)
+SOP Registrasi Pengguna
+Pengguna membuka halaman pendaftaran di platform.
+
+Pengguna mengisi informasi wajib meliputi alamat surel yang valid dan kata sandi.
+
+Pengguna membaca dan menyetujui syarat serta ketentuan platform.
+
+Sistem mengirimkan tautan verifikasi ke alamat surel yang didaftarkan.
+
+Pengguna menekan tautan verifikasi untuk mengaktifkan akun secara penuh.
+
+SOP Proses Pembelian
+Pengguna masuk ke akun terdaftar.
+
+Pengguna menekan tombol beli pada produk digital yang diinginkan.
+
+Sistem mengarahkan pengguna ke halaman checkout.
+
+Pengguna memilih metode pembayaran yang didukung oleh payment gateway.
+
+Sistem payment gateway menerbitkan instruksi dan kode pembayaran.
+
+Pengguna mentransfer dana melalui aplikasi pembayaran mereka.
+
+Sistem memverifikasi dana otomatis dan mengubah status pesanan menjadi berhasil.
+
+SOP Penanganan Pembayaran Gagal
+Sistem menerima respons kegagalan dari jaringan payment gateway.
+
+Sistem memperbarui status pesanan menjadi gagal di dasbor pengguna.
+
+Sistem menginformasikan pengguna mengenai status gagal tersebut.
+
+Sistem memberikan opsi kepada pengguna untuk melakukan checkout ulang.
+
+Sistem memastikan tidak ada akses produk yang terbuka untuk transaksi tersebut.
+
+SOP Permintaan Refund
+Pengguna mengirimkan laporan melalui layanan bantuan dengan menyertakan nomor pesanan.
+
+Pengguna melampirkan bukti kendala berupa tangkapan layar berkas rusak atau tautan mati.
+
+Tim platform melakukan pengecekan log transaksi dan riwayat unduhan sistem.
+
+Tim platform memproses pengembalian dana melalui payment gateway jika syarat terpenuhi.
+
+Sistem mencabut akses pengguna terhadap produk tersebut secara permanen.
+
+SOP Akses Produk Digital
+Payment gateway mengirimkan sinyal pembayaran berhasil ke platform.
+
+Platform secara instan mendaftarkan lisensi atau tautan unduhan ke akun pengguna.
+
+Platform memperbarui tampilan riwayat pembelian di dasbor pengguna.
+
+Platform mengirimkan surel pemberitahuan bahwa produk siap diakses.
+
+Pengguna mengklik tautan di dasbor untuk langsung mengunduh produk digital.
+
+PERTANYAAN YANG SERING DIAJUKAN (FAQ)
+Bagaimana cara kerja payment gateway di platform ini?
+Payment gateway kami memproses pembayaran Anda secara elektronik dan instan. Begitu Anda selesai mentransfer dana, sistem akan melakukan verifikasi otomatis tanpa perlu Anda mengirimkan bukti transfer fisik, sehingga produk bisa segera diakses.
+
+Berapa harga produk digital yang dijual?
+Harga produk digital kami sangat bervariasi tergantung jenis dan kompleksitasnya. Mulai dari AI Prompt seharga Rp15.000 hingga Source Code komprehensif seharga Rp1.500.000. Seluruh harga tertera jelas pada setiap rincian produk.
+
+Kapan saya bisa mengunduh produk yang saya beli?
+Anda dapat mengunduh produk detik itu juga setelah status pembayaran Anda berubah menjadi berhasil. Sistem akan langsung memunculkan tautan akses di halaman dasbor akun Anda.
+
+Apa yang terjadi jika saya terlambat membayar?
+Jika batas waktu pembayaran terlewati, status transaksi akan berubah menjadi kedaluwarsa secara otomatis. Anda cukup mencari kembali produk tersebut di katalog dan mengulang proses checkout untuk mendapatkan kode pembayaran baru.
+
+Apakah saya bisa membatalkan pesanan dan meminta refund?
+Refund hanya dapat diajukan jika Anda mengalami kendala teknis dari sistem kami, seperti file yang terbukti korup atau tidak dapat diakses sama sekali. Kebijakan ini berlaku untuk melindungi hak kekayaan intelektual produk digital.
